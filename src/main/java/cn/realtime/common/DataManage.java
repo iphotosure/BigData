@@ -19,7 +19,7 @@
  *  
  ***********************************************************************/
 
-package cn.realtime.client;
+package cn.realtime.common;
 
 import cn.realtime.procol.DataObject;
 import cn.realtime.procol.QueryObject;

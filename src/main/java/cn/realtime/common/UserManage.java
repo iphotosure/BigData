@@ -20,7 +20,7 @@
  ***********************************************************************/
 
 
-package cn.realtime.server;
+package cn.realtime.common;
 
 import java.util.List;
 
